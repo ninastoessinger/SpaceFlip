@@ -21,8 +21,8 @@
 	<key>version</key>
 	<string>1.0</string>
 	<key>repository</key>
-    <string>ninastoessinger/SpaceFlip</string>
-    <key>extensionPath</key>
-    <string>SpaceFlip.roboFontExt</string>
+	<string>ninastoessinger/SpaceFlip</string>
+	<key>extensionPath</key>
+	<string>SpaceFlip.roboFontExt</string>
 </dict>
 </plist>
